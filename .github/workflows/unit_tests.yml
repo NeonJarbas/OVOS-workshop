@@ -68,7 +68,7 @@ jobs:
           pip install git+https://github.com/MycroftAI/mycroft-core
       - name: Run mycroft unittests
         run: |
-          pytest --cov-append --cov=ovos_workshop --cov-report xml test/unittests
+          pytest --cov-append --cov=ovos_workshop --cov-report xml test/integrationtests
           # NOTE: additional pytest invocations should also add the --cov-append flag
           #       or they will overwrite previous invocations' coverage reports
           #       (for an example, see OVOS Skill Manager's workflow)
