@@ -1,20 +1,20 @@
 # Changelog
 
-## [0.0.16a2](https://github.com/OpenVoiceOS/OVOS-workshop/tree/0.0.16a2) (2023-12-30)
+## [0.0.13a25](https://github.com/NeonJarbas/OVOS-workshop/tree/0.0.13a25) (2024-01-06)
 
-[Full Changelog](https://github.com/OpenVoiceOS/OVOS-workshop/compare/0.0.16a1...0.0.16a2)
+[Full Changelog](https://github.com/NeonJarbas/OVOS-workshop/compare/0.0.13a24...0.0.13a25)
 
-**Fixed bugs:**
+## [0.0.13a24](https://github.com/NeonJarbas/OVOS-workshop/tree/0.0.13a24) (2023-12-15)
 
-- fix/loading\_failure\_logs\_even\_if\_loaded [\#168](https://github.com/OpenVoiceOS/OVOS-workshop/pull/168) ([JarbasAl](https://github.com/JarbasAl))
+[Full Changelog](https://github.com/NeonJarbas/OVOS-workshop/compare/0.0.13a23...0.0.13a24)
 
-## [0.0.16a1](https://github.com/OpenVoiceOS/OVOS-workshop/tree/0.0.16a1) (2023-12-29)
+## [0.0.13a23](https://github.com/NeonJarbas/OVOS-workshop/tree/0.0.13a23) (2023-12-15)
 
-[Full Changelog](https://github.com/OpenVoiceOS/OVOS-workshop/compare/0.0.15...0.0.16a1)
+[Full Changelog](https://github.com/NeonJarbas/OVOS-workshop/compare/0.0.13a22...0.0.13a23)
 
-**Merged pull requests:**
+## [0.0.13a22](https://github.com/NeonJarbas/OVOS-workshop/tree/0.0.13a22) (2023-12-15)
 
-- packaging/update\_imports [\#167](https://github.com/OpenVoiceOS/OVOS-workshop/pull/167) ([JarbasAl](https://github.com/JarbasAl))
+[Full Changelog](https://github.com/NeonJarbas/OVOS-workshop/compare/0.0.12...0.0.13a22)
 
 
 
