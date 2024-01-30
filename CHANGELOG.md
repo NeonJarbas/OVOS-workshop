@@ -1,82 +1,28 @@
 # Changelog
 
-## [0.0.16a10](https://github.com/OpenVoiceOS/OVOS-workshop/tree/0.0.16a10) (2024-01-24)
+## [0.0.16a6](https://github.com/NeonJarbas/OVOS-workshop/tree/0.0.16a6) (2024-01-12)
 
-[Full Changelog](https://github.com/OpenVoiceOS/OVOS-workshop/compare/0.0.16a9...0.0.16a10)
+[Full Changelog](https://github.com/NeonJarbas/OVOS-workshop/compare/0.0.16a3...0.0.16a6)
 
-**Fixed bugs:**
+## [0.0.16a3](https://github.com/NeonJarbas/OVOS-workshop/tree/0.0.16a3) (2024-01-06)
 
-- fix/skill\_name [\#179](https://github.com/OpenVoiceOS/OVOS-workshop/pull/179) ([JarbasAl](https://github.com/JarbasAl))
-- fix/sounds\_in\_docker [\#178](https://github.com/OpenVoiceOS/OVOS-workshop/pull/178) ([JarbasAl](https://github.com/JarbasAl))
+[Full Changelog](https://github.com/NeonJarbas/OVOS-workshop/compare/0.0.13a25...0.0.16a3)
 
-## [0.0.16a9](https://github.com/OpenVoiceOS/OVOS-workshop/tree/0.0.16a9) (2024-01-20)
+## [0.0.13a25](https://github.com/NeonJarbas/OVOS-workshop/tree/0.0.13a25) (2024-01-06)
 
-[Full Changelog](https://github.com/OpenVoiceOS/OVOS-workshop/compare/0.0.16a8...0.0.16a9)
+[Full Changelog](https://github.com/NeonJarbas/OVOS-workshop/compare/0.0.13a24...0.0.13a25)
 
-**Fixed bugs:**
+## [0.0.13a24](https://github.com/NeonJarbas/OVOS-workshop/tree/0.0.13a24) (2023-12-15)
 
-- fix/self.name usages [\#177](https://github.com/OpenVoiceOS/OVOS-workshop/pull/177) ([JarbasAl](https://github.com/JarbasAl))
+[Full Changelog](https://github.com/NeonJarbas/OVOS-workshop/compare/0.0.13a23...0.0.13a24)
 
-## [0.0.16a8](https://github.com/OpenVoiceOS/OVOS-workshop/tree/0.0.16a8) (2024-01-12)
+## [0.0.13a23](https://github.com/NeonJarbas/OVOS-workshop/tree/0.0.13a23) (2023-12-15)
 
-[Full Changelog](https://github.com/OpenVoiceOS/OVOS-workshop/compare/0.0.16a7...0.0.16a8)
+[Full Changelog](https://github.com/NeonJarbas/OVOS-workshop/compare/0.0.13a22...0.0.13a23)
 
-**Implemented enhancements:**
+## [0.0.13a22](https://github.com/NeonJarbas/OVOS-workshop/tree/0.0.13a22) (2023-12-15)
 
-- feat/stop\_per\_session [\#169](https://github.com/OpenVoiceOS/OVOS-workshop/pull/169) ([JarbasAl](https://github.com/JarbasAl))
-
-## [0.0.16a7](https://github.com/OpenVoiceOS/OVOS-workshop/tree/0.0.16a7) (2024-01-12)
-
-[Full Changelog](https://github.com/OpenVoiceOS/OVOS-workshop/compare/0.0.16a6...0.0.16a7)
-
-## [0.0.16a6](https://github.com/OpenVoiceOS/OVOS-workshop/tree/0.0.16a6) (2024-01-12)
-
-[Full Changelog](https://github.com/OpenVoiceOS/OVOS-workshop/compare/0.0.16a5...0.0.16a6)
-
-**Implemented enhancements:**
-
-- feat/OCP csv keyword files support [\#174](https://github.com/OpenVoiceOS/OVOS-workshop/pull/174) ([NeonJarbas](https://github.com/NeonJarbas))
-
-## [0.0.16a5](https://github.com/OpenVoiceOS/OVOS-workshop/tree/0.0.16a5) (2024-01-08)
-
-[Full Changelog](https://github.com/OpenVoiceOS/OVOS-workshop/compare/0.0.16a4...0.0.16a5)
-
-**Implemented enhancements:**
-
-- feat/ocp\_voc\_match [\#172](https://github.com/OpenVoiceOS/OVOS-workshop/pull/172) ([NeonJarbas](https://github.com/NeonJarbas))
-
-## [0.0.16a4](https://github.com/OpenVoiceOS/OVOS-workshop/tree/0.0.16a4) (2024-01-06)
-
-[Full Changelog](https://github.com/OpenVoiceOS/OVOS-workshop/compare/0.0.16a3...0.0.16a4)
-
-**Fixed bugs:**
-
-- When a skill reload fails then try and clean up [\#173](https://github.com/OpenVoiceOS/OVOS-workshop/pull/173) ([lbt](https://github.com/lbt))
-
-## [0.0.16a3](https://github.com/OpenVoiceOS/OVOS-workshop/tree/0.0.16a3) (2024-01-06)
-
-[Full Changelog](https://github.com/OpenVoiceOS/OVOS-workshop/compare/0.0.16a2...0.0.16a3)
-
-**Fixed bugs:**
-
-- FallbackSkill `__new__()` fails for FallbackSkillV1 [\#170](https://github.com/OpenVoiceOS/OVOS-workshop/issues/170)
-- Just publish the skill\_id without the extra ":" [\#171](https://github.com/OpenVoiceOS/OVOS-workshop/pull/171) ([lbt](https://github.com/lbt))
-
-## [0.0.16a2](https://github.com/OpenVoiceOS/OVOS-workshop/tree/0.0.16a2) (2023-12-30)
-
-[Full Changelog](https://github.com/OpenVoiceOS/OVOS-workshop/compare/0.0.16a1...0.0.16a2)
-
-**Fixed bugs:**
-
-- fix/loading\_failure\_logs\_even\_if\_loaded [\#168](https://github.com/OpenVoiceOS/OVOS-workshop/pull/168) ([JarbasAl](https://github.com/JarbasAl))
-
-## [0.0.16a1](https://github.com/OpenVoiceOS/OVOS-workshop/tree/0.0.16a1) (2023-12-29)
-
-[Full Changelog](https://github.com/OpenVoiceOS/OVOS-workshop/compare/0.0.15...0.0.16a1)
-
-**Merged pull requests:**
-
-- packaging/update\_imports [\#167](https://github.com/OpenVoiceOS/OVOS-workshop/pull/167) ([JarbasAl](https://github.com/JarbasAl))
+[Full Changelog](https://github.com/NeonJarbas/OVOS-workshop/compare/0.0.12...0.0.13a22)
 
 
 
